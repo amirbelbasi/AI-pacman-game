@@ -69,3 +69,5 @@ MDP & Value Iteration:
 ![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/bfcb151c-1ace-4b8d-a500-43211cb55d97)
 
 ![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/c28783db-06e7-464f-bc82-965875f97bee)
+
+![s](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/e05c5a16-7a27-4c10-9487-7668622d336d)
