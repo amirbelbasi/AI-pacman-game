@@ -2,7 +2,7 @@
 
 * Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
   * Developed various AI models for pacman to win the game efficiently
-  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Value Iteration, Reinforcement Learning, 
+  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Asynchronous & Prioritized Sweeping Value Iteration, Reinforcement Learning (Q-Learning), 
 
 Depth First Search:
 
@@ -71,3 +71,25 @@ MDP & Value Iteration:
 ![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/c28783db-06e7-464f-bc82-965875f97bee)
 
 ![s](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/e05c5a16-7a27-4c10-9487-7668622d336d)
+
+Asynchronous Value Iteration:
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/c570d6ce-f8a6-443c-881c-793fc05e7ae0)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/e0e0f54a-6b15-45b6-ab17-73c1d5734201)
+
+Prioritized Sweeping Value Iteration:
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/2e1114c7-da23-4ce6-a7e9-ca12d0b7c12d)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/e0a84c2d-0ce2-415c-b1b0-dd6d0d7af1e6)
+
+Reinforcement Learning (Q-Learning):
+
+
+
+Final Values:
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/ec49e97c-78ab-4e9c-9b05-d7a526db0851)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/62d4c3e5-7938-475f-b0a3-fcae83bb966e)
