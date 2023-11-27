@@ -1,7 +1,7 @@
 # AI-pacman-game
 
-* Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
-  * Developed various AI models for pacman to win the game efficiently
+* Various AI Models for Pacman | Principles & Applications of Artificial Intelligence
+  * Developed various AI models for pacman to win the game efficiently (taken from UC Berkeley's AI course project)
   * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Asynchronous & Prioritized Sweeping Value Iteration, Reinforcement Learning (Q-Learning) in order to enable a robot to crawl forward, Approximate Q-Learning, Bayesian Network (BN), Exact & Approximate Inference, Posterior Belief, Particle Filtering Algorithm to track ghosts
 
 Depth First Search:
