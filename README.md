@@ -1,6 +1,6 @@
 # AI-pacman-game
 
-* Various AI Models for Pacman | Principles & Applications of Artificial Intelligence
+* Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
   * Developed various AI models for pacman to win the game efficiently
   * Utilized Python, DFS, BFS, UCS, A*
 
