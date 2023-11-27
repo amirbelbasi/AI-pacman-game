@@ -86,7 +86,7 @@ Prioritized Sweeping Value Iteration:
 
 Reinforcement Learning (Q-Learning):
 
-![ez](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/0e412a4e-d56f-49d6-b0fd-7bc619040782)
+![ezgif com-video-to-gif (7)](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/2b9762cc-f27b-4d37-a76f-ccf4d9ea8686)
 
 Final Values:
 
