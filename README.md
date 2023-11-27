@@ -2,7 +2,7 @@
 
 * Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
   * Developed various AI models for pacman to win the game efficiently
-  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Value Iteration
+  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Value Iteration, Reinforcement Learning, 
 
 Depth First Search:
 
@@ -66,3 +66,6 @@ MDP & Value Iteration:
 
 ![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/ec524044-376b-4fff-a92f-758735c5944b)
 
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/bfcb151c-1ace-4b8d-a500-43211cb55d97)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/c28783db-06e7-464f-bc82-965875f97bee)
