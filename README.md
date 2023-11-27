@@ -2,7 +2,7 @@
 
 * Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
   * Developed various AI models for pacman to win the game efficiently
-  * Utilized Python, DFS, BFS, UCS, A*
+  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Value Iteration
 
 Depth First Search:
 
@@ -37,3 +37,32 @@ Four Corners Problem Using Heuristic:
 Eat All Dots:
 
 ![nice](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/c0cdf35b-6281-417f-a143-6f2b27ac9911)
+
+Reflex Agent:
+
+![1](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/f7688f91-d504-49e2-bc5d-bdc49dc4e493)
+
+Alpha-Beta Pruned Mini-Max:
+
+![3](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/fc892d3b-448a-4259-a372-4207d501fbe9)
+
+Expectimax:
+
+![(1)](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/9648e44b-e912-442c-94d6-4feda56126d5)
+
+Better Evaluation Function:
+
+![5](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/689434c9-2c05-4a92-8ada-2cef069d9799)
+
+MDP & Value Iteration:
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/852ba75f-796d-4514-b4cd-5800f8382cb9)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/073989f8-a0c7-4f04-9248-4c0a6c068498)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/064d6a92-f25d-41c9-81d7-8b22d49e4d90)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/04e151ce-38c1-462a-8e87-3dc11dcdff7b)
+
+![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/ec524044-376b-4fff-a92f-758735c5944b)
+
