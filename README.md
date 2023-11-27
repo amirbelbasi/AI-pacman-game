@@ -2,7 +2,7 @@
 
 * Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
   * Developed various AI models for pacman to win the game efficiently
-  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Asynchronous & Prioritized Sweeping Value Iteration, Reinforcement Learning (Q-Learning) in order to enable a robot to crawl forward, Approximate Q-Learning, 
+  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Asynchronous & Prioritized Sweeping Value Iteration, Reinforcement Learning (Q-Learning) in order to enable a robot to crawl forward, Approximate Q-Learning, Bayesian Network (BN), Exact & Approximate Inference, Posterior Belief, Particle Filtering Algorithm to track ghosts
 
 Depth First Search:
 
@@ -105,3 +105,7 @@ Pacman learns to win with Q-Learning:
 Pacman learns to win with Approximate Q-Learning:
 
 ![ezgif com-video-to-gif (6)](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/51a7a00a-d006-452c-ba22-48bb7a4d47db)
+
+Pacman learns to bust ghosts using bayesian network (BN), exact & approximate inference, posterior belief, and particle filtering algorithm:
+
+![gif](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/b1263dec-c2ed-4dae-acaa-77bec2238a4a)
