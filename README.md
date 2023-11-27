@@ -2,7 +2,7 @@
 
 * Various AI Models for Pacman | Principles & Applications of Artificial Intelligence (taken from UC Berkeley's AI course project)
   * Developed various AI models for pacman to win the game efficiently
-  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Asynchronous & Prioritized Sweeping Value Iteration, Reinforcement Learning (Q-Learning), 
+  * Utilized Python, DFS, BFS, UCS, A*, Reflex Agent, Mini-Max, Alpha-Beta Pruning, Expectimax, Markov decision process (MDP), Asynchronous & Prioritized Sweeping Value Iteration, Reinforcement Learning (Q-Learning) in order to enable a robot to crawl forward, Approximate Q-Learning, 
 
 Depth First Search:
 
@@ -86,10 +86,22 @@ Prioritized Sweeping Value Iteration:
 
 Reinforcement Learning (Q-Learning):
 
-
+![ez](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/0e412a4e-d56f-49d6-b0fd-7bc619040782)
 
 Final Values:
 
 ![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/ec49e97c-78ab-4e9c-9b05-d7a526db0851)
 
 ![image](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/62d4c3e5-7938-475f-b0a3-fcae83bb966e)
+
+Crawler robot learns to crawl with Q-Learning:
+
+![e(3)](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/0fe85024-2840-4080-8295-4037b3f8c83e)
+
+Pacman learns to win with Q-Learning:
+
+![ezgif com-video-to-gif (5)](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/4497f183-bb5c-4ab7-aaed-eefde2dcd490)
+
+Pacman learns to win with Approximate Q-Learning:
+
+![ezgif com-video-to-gif (6)](https://github.com/amirbelbasi/AI-pacman-game/assets/58425120/51a7a00a-d006-452c-ba22-48bb7a4d47db)
